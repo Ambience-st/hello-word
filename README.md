@@ -1,2 +1,3 @@
 # hello-word
-starter
+starter, Bismillah
+halo, namaku **Nia**. senang bisa belajar hal yang baru.
